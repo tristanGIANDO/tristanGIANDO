@@ -1,9 +1,10 @@
 - Hi, I’m @tristanGIANDO
-- I’m interested in pipeline, dev, rigging
-- I’m currently learning Python and PyQt5
-<!-- - ![alt text](https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png) -->
 
-<!---
-tristanGIANDO/tristanGIANDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a CG generalist student at ESMA - Montpellier ( France )
+
+- I’m interested in pipeline, rigging
+
+
+**Languages and Tools :**
+
+[<img src="https://img.icons8.com/color/48/000000/python.png"/>]()[<img src="https://img.icons8.com/ios/50/000000/qt.png"/>]()[<img src="https://img.icons8.com/color/48/000000/autodesk-maya.png"/>]()[<img src="https://img.icons8.com/color/48/000000/nuke.png"/>]()[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>]()
