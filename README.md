@@ -1,6 +1,6 @@
 Hi ! I’m @tristanGIANDO !
 
-I'm a CG generalist student at ESMA - Montpellier ( France )
+I'm Pipeline TD at TheBeastMakers (France)
 
 I’m interested in :
 - rigging [<img src="https://img.icons8.com/ios/50/000000/animation-rig.png"/>]()
