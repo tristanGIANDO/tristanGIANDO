@@ -3,8 +3,9 @@ Hi ! I’m @tristanGIANDO !
 I'm Pipeline TD at TheBeastMakers (France)
 
 I’m interested in :
-- rigging [<img src="https://img.icons8.com/ios/50/000000/animation-rig.png"/>]()
-- pipeline [<img src="https://img.icons8.com/ios-glyphs/30/000000/data-in-both-directions.png"/>]()
+- rigging
+- pipeline
+- production
 
 
 **Languages :**
