@@ -30,6 +30,7 @@ During my last year of study, I was in charge of the **pipeline** and **producti
 * Working as part of a team on several branches via **Git**.
 * Working in a **Rez** environment.
 * Maintaining / creating **MarkDown** / Sphinx documentation.
+* CSS themes.
 
 * Working in a **team environment**
 * Listening, looking for better ways of doing things.
@@ -41,6 +42,8 @@ During my last year of study, I was in charge of the **pipeline** and **producti
 ## What I want to learn :
 
 * C++
+* MySQL
+* HTML
 * Machine learning
 * I'd like to get closer to the fields of science and aerospace.
 * I love statistics, it's a passion that I'm gradually discovering.
