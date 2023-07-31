@@ -39,12 +39,14 @@ During my last year of study, I was in charge of the **pipeline** and **producti
 * Using **2D / 3D** softwares (Maya / Nuke...).
 * Using **VSCode**.
 
-## What I want to learn :
-
-* C++
+## What I am learning :
 * MySQL
 * HTML
-* Machine learning
+  
+## What I want to learn :
+* C++
+* IA
+* Cybersecurity
 * I'd like to get closer to the fields of science and aerospace.
 * I love statistics, it's a passion that I'm gradually discovering.
 
