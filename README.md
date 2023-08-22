@@ -1,14 +1,18 @@
 Hi ! I’m **Tristan Giandoriggio**
 
-I graduated from ESMA-Montpellier in 2022 after directing the short film **Instinct**. I am currently **Pipeline TD / rigger** at **The Beast Makers**.
+Passionate about **science** and **cinema** since childhood, I graduated in **3D engineering** from **ESMA-Montpellier** in 2022 after directing the short film "Instinct".
+I'm currently **Pipeline TD / rigger** at **The Beast Makers**.
 
-I'm in charge of **creating tools to make artists' work easier** and I try to improve their work comfort.
-Since April 2023, I'm slowly starting to work as a **production manager** on upcoming projects. I manage the creation of the **pipeline** and the **tracking of tasks** and I help the artists according to their needs on the projects (review, debug, script, roles and permissions).
-I also do **rigging** (all types of rigs + script in Python)
-Since February 2023, I give general 3D beginners courses via Superprof.
+I'm in charge of creating tools to make artists' work easier and I try to improve their working comfort.
+I manage the creation of the pipeline and help track tasks, while helping artists with their projects (review, debugging, scripting, roles and permissions).
+I also do rigging (mechanics/body/face/creature) and give general 3D lessons via **Superprof**.
+I can do CFX (Houdini) and compositing (Nuke).
 
-During my last year of study, I was in charge of the **pipeline** and **production**. I also did **body/face/creature rigging, CFX (Houdini) and compositing (Nuke)**.
 
+I've recently started a career change, focusing more on science than cinema.
+
+**I'm aiming for the aerospace software and tools development sector, where I'd like to put my 3D and coding skills to good use.
+I also do astrophotography.**
 
 ## What I can do:
 
@@ -17,31 +21,21 @@ During my last year of study, I was in charge of the **pipeline** and **producti
 [<img src="https://img.icons8.com/color/48/000000/autodesk-maya.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/nuke.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>]()
-* Creating **standalone tools** specific to the company's needs (with **logging** system).
-* **UI** creation in **PyQt**.
-* Creation of useful **scripts** to speed up a workflow and save time.
-* Administration and **project management**.
-* Managing and updating data in a database.
+* Python / PyQt
+* front-end / back-end
+* Creating standalone tools specific to the company's needs (with logging system).
+* Creation of useful scripts to speed up a workflow and save time.
+* Administration and project management.
+* Managing and updating a database.
 * Managing and updating a number of company-specific applications.
-* Managing an **Active Directory**.
-* Using of **classes**.
-* Comfortable with modules such as `os`, `subprocess`, etc.
-* Comfortable with packages split into several files.
-* Working as part of a team on several branches via **Git**.
-* Working in a **Rez** environment.
-* Maintaining / creating **MarkDown** / Sphinx documentation.
-* CSS themes.
-
-* Working in a **team environment**
-* Listening, looking for better ways of doing things.
-* Code following **PEP8** conventions.
-
-* Using **2D / 3D** softwares (Maya / Nuke...).
-* Using **VSCode**.
+* Managing an Active Directory.
+* Working with Rez / Git.
+* Maintaining / creating MarkDown / Sphinx documentation.
 
 ## What I am learning :
 * MySQL
 * HTML
+* Physics
   
 ## What I want to learn :
 * C++
@@ -49,5 +43,3 @@ During my last year of study, I was in charge of the **pipeline** and **producti
 * Cybersecurity
 * I'd like to get closer to the fields of science and aerospace.
 * I love statistics, it's a passion that I'm gradually discovering.
-
-
