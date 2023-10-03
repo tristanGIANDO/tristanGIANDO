@@ -36,10 +36,11 @@ I also do astrophotography.**
 * MySQL
 * HTML
 * Physics
+* Maths
   
 ## What I want to learn :
 * C++
-* IA
+* AI
 * Cybersecurity
 * I'd like to get closer to the fields of science and aerospace.
 * I love statistics, it's a passion that I'm gradually discovering.
