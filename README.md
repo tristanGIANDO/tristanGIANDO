@@ -4,11 +4,11 @@
 
 🎓I'm still studying at the same time, taking 𝐠𝐞𝐧𝐞𝐫𝐚𝐥 𝐩𝐡𝐲𝐬𝐢𝐜𝐬 courses and preparing for the 𝐚𝐞𝐫𝐨𝐧𝐚𝐮𝐭𝐢𝐜𝐚𝐥 professions with the 𝐁𝐈𝐀.
 
-🚀Also, I'm specializing in 𝐀𝐈 and Big Data in order to become a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 𝐢𝐧 𝐭𝐡𝐞 𝐚𝐞𝐫𝐨𝐧𝐚𝐮𝐭𝐢𝐜𝐬/𝐚𝐞𝐫𝐨𝐬𝐩𝐚𝐜𝐞 𝐬𝐞𝐜𝐭𝐨𝐫𝐬.
+🚀Also, I'm specializing in Data Science / 𝐀𝐈 in order to become a 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 𝐢𝐧 𝐭𝐡𝐞 𝐚𝐞𝐫𝐨𝐧𝐚𝐮𝐭𝐢𝐜𝐬/𝐚𝐞𝐫𝐨𝐬𝐩𝐚𝐜𝐞 𝐬𝐞𝐜𝐭𝐨𝐫𝐬.
 
 🌍 𝑾𝒉𝒂𝒕 𝑰'𝒎 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓 :
 
-🔹𝐨𝐧-𝐬𝐢𝐭𝐞 position in 𝐓𝐨𝐮𝐥𝐨𝐮𝐬𝐞 from 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟐𝟒
+🔹𝐨𝐧-𝐬𝐢𝐭𝐞 position in 𝐏𝐚𝐫𝐢𝐬 from 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟐𝟒
 🔹𝐫𝐞𝐦𝐨𝐭𝐞 positions 𝐚𝐧𝐲𝐰𝐡𝐞𝐫𝐞
 
 Feel free to contact me! 😉
