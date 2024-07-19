@@ -1,11 +1,9 @@
-🔎Vous cherchez un futur Data Scientist avec une solide expérience dans l'industrie de la 3D et des connaissances des secteurs de l'aéronautique et aérospatiale ? Me voici !
+🔎 Vous cherchez un TD avec une solide expérience dans l'industrie de la 3D, une formation en Data Science et des connaissances des secteurs de l'aéronautique et aérospatiale ? Me voici !
 
-🎬Titulaire d'un Master en Cinéma d'Animation 3D, j'ai acquis une expérience en gestion de projet et en développement d'outils, d'APIs et de bases de données avec Python.
+🎬 Titulaire d'un Bac+5 en Cinéma d'Animation 3D, et bientôt d'un Bac+4 en tant que Machine Learning Engineer, je souhaite allier 3D et Data Science pour répondre aux nouveaux besoins du marché.
 
-📊J'ai décidé de me spécialiser en Data Science pour répondre aux nouveaux besoins émergents (et aussi parce que j'adore ça !).
+Avec un profil généraliste, j'ai principalement été responsable du pipeline, de la création d'outils, d'APIs, et j'ai acquis des compétences en gestion de projet.
 
-🎓 Parallèlement, j'ai poursuivi des cours de physique générale, aéronautique, plongée et tout un tas de nouvelles techniques de codage.
+🎓 Parallèlement, j'ai suivi des cours de physique générale, d'aéronautique et de plongée, tout en donnant des cours sur la 3D. J'ai également une passion profonde pour l'Univers et un grand intérêt pour les domaines de la défense spatiale.
 
-
-📌Mon objectif est de vous faire gagner du temps en résolvant des problèmes que vous n'avez peut-être pas encore identifiés.
-Sentez-vous libres d'envoyer un message !😉
+Sentez vous libre d'envoyer un message !😉
