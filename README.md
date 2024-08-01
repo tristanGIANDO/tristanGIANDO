@@ -9,15 +9,3 @@ Mon but est de toujours comprendre les problèmes dans leur ensemble pour trouve
 J'ai également une passion profonde pour l'Univers et un grand intérêt pour les domaines de la défense.
 
 Sentez vous libre d'envoyer un message !😉
-
----
-
-|Hard Skill|Softs/Libs|
-|-|-|
-|**Programming**|Python, OOP, Numpy, Shell, Git / GitHub|
-|**UX / UI Design**|PyQt5 / PySide2, CSS / QSS, HTML|
-|**3D Animation and VFX**|Autodesk Maya / Mudbox, ZBrush, Nuke, Houdini, Unreal Engine 5, Pixar's RenderMan, Photoshop / Lightroom, Siril / Sequator / DeepSkyStacker, DaVinci Resolve / Adobe Premiere Pro / Sony Vegas Pro|
-|**EDA**|Pandas, Matplotlib / Plotly|
-|**Data Collection**|MySQL / SQLite / PostgreSQL, Scrapy / BeautifulSoup, requests, async|
-|**Machine Learning / Deep Learning**|scikit-learn, tensorflow|
-|**Management**|AWS S3, IAM, RDS, Synology DSM, fTrack, ShotGrid, Aquarium, Sheets, Windows ACL|
