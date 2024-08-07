@@ -34,4 +34,4 @@ Sentez vous libre d'envoyer un message !😉
 ![Unreal](https://img.shields.io/badge/unreal_engine-020000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Zbrush](https://img.shields.io/badge/zBrush-002a42.svg?style=for-the-badge&logo=zbrush&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tristanGIANDO&theme=light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tristanGIANDO&theme=default)
