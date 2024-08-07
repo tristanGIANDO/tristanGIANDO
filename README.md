@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-giandoriggio/)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%230077B5.svg?logo=artstation&logoColor=white)](https://www.artstation.com/tristangiando)
+[![Demo](https://img.shields.io/badge/CG_Demoreel_2024-%230077B5.svg?logo=vimeo&logoColor=white)](https://vimeo.com/933328604?share=copy)
 
 🎬 Titulaire d'un Bac+5 en Cinéma d'Animation 3D, et passant actuellement un Bac+4 pour devenir Machine Learning Engineer, je souhaite allier 3D et Data Science pour répondre aux nouveaux besoins du marché.
 
