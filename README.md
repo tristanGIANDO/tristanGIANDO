@@ -1,17 +1,20 @@
-🔎 Vous cherchez un TD avec une solide expérience dans l'industrie de la 3D, une formation en Data Science et des connaissances des secteurs de l'aéronautique et aérospatiale ? Me voici !
+🔎 Looking for a **TD** with solid experience in the **3D industry**, a background in **Data Science** and knowledge of the **aeronautics and aerospace** sectors? Here I am!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-giandoriggio/)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%230077B5.svg?logo=artstation&logoColor=white)](https://www.artstation.com/tristangiando)
 
-🎬 Titulaire d'un Bac+5 en Cinéma d'Animation 3D, et passant actuellement un Bac+4 pour devenir Machine Learning Engineer, je souhaite allier 3D et Data Science pour répondre aux nouveaux besoins du marché.
+🎬 With a **Bac+5 in 3D Animation**, and a **Bac+4 as a Machine Learning Engineer**, I want to combine 3D and Data Science to meet new market needs.
 
-Jusque là, j'ai principalement été responsable des pipelines/workflows, de la création d'outils/scripts, d'APIs, et j'ai acquis des compétences en gestion de projet.
-Mon but est de toujours comprendre les problèmes dans leur ensemble pour trouver les meilleures solutions.
+🎯In a few words, specialized in **rigging and compositing**, I've so far been mainly responsible for managing the pipeline of a 3D/VFX production.
+My tasks consisted in defining workflows, creating tools/APIs/bots to help artists on a production as well as tools to manage the company.
 
-🎓 Parallèlement, j'ai suivi des cours de physique générale, d'aéronautique et de plongée, tout en donnant des cours sur les métiers de la 3D.
-J'ai également une passion profonde pour l'Univers et un grand intérêt pour les domaines de la défense.
+💻Gradually, I'm evolving into the role of **data engineer**, helping to create and curate datasets for training models.
+My goal is always to understand problems as a whole to find the best solutions.
 
-Sentez vous libre d'envoyer un message !😉
+🎓 At the same time, I've taken courses in general physics, aeronautics and diving, as well as teaching courses in the 3D professions.
+I also have a deep passion for the Universe and a great interest in the fields of defense.
+
+Feel free to send a message 😉
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%79FF75.svg?style=for-the-badge&logo=qt&logoColor=white)
